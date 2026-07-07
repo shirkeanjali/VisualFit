@@ -1,4 +1,4 @@
-# Fashion Recommender System
+# VisualFit – Fashion Recommender 
 
 A deep learning-based fashion recommendation project built with TensorFlow, ResNet50, and Streamlit.
 
